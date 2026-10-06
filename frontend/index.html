@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CultureLens - Cross-Cultural Communication Advisor</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <header class="app-header">
+        <div class="container header-content">
+            <div class="logo">
+                <span class="logo-icon">🌐</span>
+                <h1>CultureLens</h1>
+            </div>
+            <p class="tagline">Cross-Cultural Communication Advisor</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Input Panel -->
+        <section id="input-panel" class="panel">
+            <div class="input-header">
+                <h2>Analyze Communication</h2>
+                <div class="example-selector">
+                    <label for="example-select">Try an example:</label>
+                    <select id="example-select">
+                        <option value="">-- Select an example --</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="culture-selectors">
+                <div class="selector-group">
+                    <label for="sender-culture">Sender's Culture</label>
+                    <select id="sender-culture" required>
+                        <option value="">-- Select --</option>
+                    </select>
+                </div>
+                <button id="swap-cultures" class="icon-btn" aria-label="Swap cultures" title="Swap cultures">↔</button>
+                <div class="selector-group">
+                    <label for="recipient-culture">Recipient's Culture</label>
+                    <select id="recipient-culture" required>
+                        <option value="">-- Select --</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="text-input-group">
+                <label for="message-input">Your Message</label>
+                <textarea id="message-input" rows="8" placeholder="Type or paste your message here..." aria-label="Message to analyze"></textarea>
+                <div class="character-counter"><span id="char-count">0</span> / 5000</div>
+            </div>
+
+            <div class="analysis-options">
+                <h3>Analysis Layers</h3>
+                <div class="toggles">
+                    <label class="toggle-label">
+                        <input type="checkbox" id="layer-semantic" checked>
+                        <span class="toggle-slider"></span>
+                        Semantic Matching
+                    </label>
+                    <label class="toggle-label">
+                        <input type="checkbox" id="layer-ml" checked>
+                        <span class="toggle-slider"></span>
+                        ML Classifier
+                    </label>
+                    <label class="toggle-label">
+                        <input type="checkbox" id="layer-tone" checked>
+                        <span class="toggle-slider"></span>
+                        Tone Analysis
+                    </label>
+                </div>
+            </div>
+
+            <div class="action-buttons">
+                <button id="analyze-btn" class="primary-btn">
+                    <span class="btn-text">Analyze</span>
+                    <span class="spinner hidden"></span>
+                </button>
+                <button id="clear-btn" class="secondary-btn">Clear</button>
+            </div>
+            
+            <div id="error-message" class="error-banner hidden" role="alert"></div>
+        </section>
+
+        <!-- Results Panel -->
+        <section id="results-panel" class="panel hidden">
+            <div class="results-header">
+                <h2>Analysis Results</h2>
+                <button id="download-report-btn" class="secondary-btn small">Download Report (JSON)</button>
+            </div>
+            
+            <!-- No Flags Celebration -->
+            <div id="no-flags-state" class="celebration hidden">
+                <span class="celebration-icon">🎉</span>
+                <h3>Looks good!</h3>
+                <p>No major cultural misunderstandings detected for this context.</p>
+            </div>
+
+            <div id="results-content">
+                <div class="results-grid">
+                    <!-- Left Column -->
+                    <div class="results-main">
+                        <!-- Risk Gauge -->
+                        <div class="card risk-card">
+                            <h3>Overall Risk Level</h3>
+                            <div class="gauge-container">
+                                <svg class="gauge" viewBox="0 0 200 100">
+                                    <path class="gauge-bg" d="M 20 100 A 80 80 0 0 1 180 100" fill="none" stroke-width="20" stroke-linecap="round"/>
+                                    <path class="gauge-fill" id="gauge-path" d="M 20 100 A 80 80 0 0 1 180 100" fill="none" stroke-width="20" stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="251.2"/>
+                                </svg>
+                                <div class="gauge-label">
+                                    <span id="risk-score">0</span>
+                                    <span id="risk-text">Low Risk</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Highlighted Text -->
+                        <div class="card highlighted-text-card">
+                            <h3>Analyzed Text</h3>
+                            <p class="subtitle">Click highlights for details</p>
+                            <div id="highlighted-text" class="text-content"></div>
+                        </div>
+
+                        <!-- Improved Version -->
+                        <div class="card improved-version-card">
+                            <h3>Improved Version</h3>
+                            <div id="improved-text" contenteditable="true" class="editable-text-box"></div>
+                            <div class="action-buttons small-actions">
+                                <button id="copy-improved-btn" class="secondary-btn small">Copy</button>
+                                <button id="reanalyze-btn" class="secondary-btn small">Re-analyze</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="results-sidebar">
+                        <!-- Culture Insight -->
+                        <div class="card insight-card">
+                            <h3>💡 Culture Insight</h3>
+                            <div id="culture-tips"></div>
+                            <small class="disclaimer">Note: These are generalized tendencies, not absolute rules.</small>
+                        </div>
+
+                        <!-- Category Breakdown -->
+                        <div class="card breakdown-card">
+                            <h3>Flag Categories</h3>
+                            <div id="category-breakdown" class="bar-chart"></div>
+                        </div>
+
+                        <!-- Tone Profile -->
+                        <div class="card tone-card">
+                            <h3>Tone Profile</h3>
+                            <div id="tone-meters"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Flag Cards List -->
+                <div class="flags-section">
+                    <h3>Detected Issues (<span id="flag-count">0</span>)</h3>
+                    <div id="flag-cards-list" class="flag-cards"></div>
+                </div>
+            </div>
+
+            <!-- Debug Info -->
+            <details class="debug-info">
+                <summary>How it works (Debug Info)</summary>
+                <pre id="debug-content" class="debug-content"></pre>
+            </details>
+        </section>
+    </main>
+
+    <footer class="app-footer">
+        <div class="container">
+            <p>CultureLens provides AI-assisted cultural communication advice. It is a tool for guidance, not a definitive cultural authority.</p>
+        </div>
+    </footer>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

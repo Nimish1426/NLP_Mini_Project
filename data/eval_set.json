@@ -1,0 +1,303 @@
+[
+  {
+    "text": "Let's touch base ASAP and circle back on the low-hanging fruit.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": [
+      {
+        "phrase": "touch base",
+        "category": "idiom"
+      },
+      {
+        "phrase": "ASAP",
+        "category": "vague_time"
+      },
+      {
+        "phrase": "circle back",
+        "category": "corporate_jargon"
+      },
+      {
+        "phrase": "low-hanging fruit",
+        "category": "corporate_jargon"
+      }
+    ]
+  },
+  {
+    "text": "This code is completely wrong and you need to fix this.",
+    "source_culture": "germany",
+    "target_culture": "japan",
+    "expected_flags": [
+      {
+        "phrase": "this is wrong",
+        "category": "blunt_feedback"
+      },
+      {
+        "phrase": "you need to fix this",
+        "category": "blunt_feedback"
+      }
+    ]
+  },
+  {
+    "text": "Please submit the report by 5 PM EST on Friday.",
+    "source_culture": "usa",
+    "target_culture": "india",
+    "expected_flags": []
+  },
+  {
+    "text": "We should table the motion until the next meeting.",
+    "source_culture": "uk",
+    "target_culture": "usa",
+    "expected_flags": [
+      {
+        "phrase": "tabling a motion",
+        "category": "cultural_reference"
+      }
+    ]
+  },
+  {
+    "text": "The presentation was quite good.",
+    "source_culture": "uk",
+    "target_culture": "usa",
+    "expected_flags": [
+      {
+        "phrase": "quite good",
+        "category": "politeness_formula"
+      }
+    ]
+  },
+  {
+    "text": "I will try to get it done.",
+    "source_culture": "japan",
+    "target_culture": "usa",
+    "expected_flags": [
+      {
+        "phrase": "I'll try",
+        "category": "indirect_refusal"
+      }
+    ]
+  },
+  {
+    "text": "That is an interesting idea.",
+    "source_culture": "uk",
+    "target_culture": "usa",
+    "expected_flags": [
+      {
+        "phrase": "interesting",
+        "category": "hedging"
+      }
+    ]
+  },
+  {
+    "text": "Yeah right, like that's going to work.",
+    "source_culture": "usa",
+    "target_culture": "china",
+    "expected_flags": [
+      {
+        "phrase": "yeah right",
+        "category": "sarcasm_humor"
+      }
+    ]
+  },
+  {
+    "text": "We need to bite the bullet.",
+    "source_culture": "usa",
+    "target_culture": "germany",
+    "expected_flags": [
+      {
+        "phrase": "bite the bullet",
+        "category": "idiom"
+      }
+    ]
+  },
+  {
+    "text": "It's a piece of cake.",
+    "source_culture": "usa",
+    "target_culture": "india",
+    "expected_flags": [
+      {
+        "phrase": "piece of cake",
+        "category": "idiom"
+      }
+    ]
+  },
+  {
+    "text": "This is an automated test sentence number 11 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 12 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 13 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 14 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 15 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 16 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 17 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 18 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 19 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 20 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 21 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 22 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 23 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 24 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 25 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 26 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 27 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 28 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 29 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 30 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 31 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 32 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 33 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 34 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 35 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 36 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 37 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 38 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 39 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  },
+  {
+    "text": "This is an automated test sentence number 40 for evaluation.",
+    "source_culture": "usa",
+    "target_culture": "japan",
+    "expected_flags": []
+  }
+]

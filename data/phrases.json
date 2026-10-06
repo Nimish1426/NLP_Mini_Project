@@ -1,0 +1,2077 @@
+[
+  {
+    "id": "idiom_touch_base",
+    "phrase": "touch base",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "make brief contact to update each other",
+    "risk_note": "Non-native readers may read this literally as physically touching a base.",
+    "examples": [
+      "Let's touch base tomorrow."
+    ],
+    "plain_alternatives": [
+      "contact you",
+      "have a short call",
+      "send an update"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Baseball metaphor (US)"
+  },
+  {
+    "id": "idiom_break_the_ice",
+    "phrase": "break the ice",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "general meaning of break the ice",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as idiom.",
+    "examples": [
+      "We need to break the ice."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "idiom_bite_the_bullet",
+    "phrase": "bite the bullet",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "general meaning of bite the bullet",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as idiom.",
+    "examples": [
+      "We need to bite the bullet."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "idiom_cut_corners",
+    "phrase": "cut corners",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "general meaning of cut corners",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as idiom.",
+    "examples": [
+      "We need to cut corners."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "idiom_hit_the_nail_on_the_head",
+    "phrase": "hit the nail on the head",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "general meaning of hit the nail on the head",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as idiom.",
+    "examples": [
+      "We need to hit the nail on the head."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "idiom_go_the_extra_mile",
+    "phrase": "go the extra mile",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "general meaning of go the extra mile",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as idiom.",
+    "examples": [
+      "We need to go the extra mile."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "idiom_think_outside_the_box",
+    "phrase": "think outside the box",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "think creatively or unconventionally",
+    "risk_note": "Overused corporate clich\u00e9 that may not translate.",
+    "examples": [
+      "We need to think outside the box."
+    ],
+    "plain_alternatives": [
+      "think creatively",
+      "find a new approach",
+      "innovate"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "idiom_get_the_ball_rolling",
+    "phrase": "get the ball rolling",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "general meaning of get the ball rolling",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as idiom.",
+    "examples": [
+      "We need to get the ball rolling."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "idiom_throw_under_the_bus",
+    "phrase": "throw under the bus",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "general meaning of throw under the bus",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as idiom.",
+    "examples": [
+      "We need to throw under the bus."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "idiom_miss_the_boat",
+    "phrase": "miss the boat",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "general meaning of miss the boat",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as idiom.",
+    "examples": [
+      "We need to miss the boat."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "idiom_burn_bridges",
+    "phrase": "burn bridges",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "general meaning of burn bridges",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as idiom.",
+    "examples": [
+      "We need to burn bridges."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "idiom_beat_around_the_bush",
+    "phrase": "beat around the bush",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "general meaning of beat around the bush",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as idiom.",
+    "examples": [
+      "We need to beat around the bush."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "idiom_piece_of_cake",
+    "phrase": "piece of cake",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "general meaning of piece of cake",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as idiom.",
+    "examples": [
+      "We need to piece of cake."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "idiom_over_the_moon",
+    "phrase": "over the moon",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "general meaning of over the moon",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as idiom.",
+    "examples": [
+      "We need to over the moon."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "idiom_back_to_square_one",
+    "phrase": "back to square one",
+    "pattern_type": "lemma_phrase",
+    "category": "idiom",
+    "base_severity": 2,
+    "meaning": "general meaning of back to square one",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as idiom.",
+    "examples": [
+      "We need to back to square one."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common idiom."
+  },
+  {
+    "id": "sports_metaphor_hit_a_home_run",
+    "phrase": "hit a home run",
+    "pattern_type": "lemma_phrase",
+    "category": "sports_metaphor",
+    "base_severity": 2,
+    "meaning": "achieve a spectacular success",
+    "risk_note": "US baseball metaphor; completely unknown in many countries.",
+    "examples": [
+      "We need to hit a home run on this project."
+    ],
+    "plain_alternatives": [
+      "succeed completely",
+      "do an excellent job",
+      "achieve great results"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Baseball metaphor (US)"
+  },
+  {
+    "id": "sports_metaphor_drop_the_ball",
+    "phrase": "drop the ball",
+    "pattern_type": "lemma_phrase",
+    "category": "sports_metaphor",
+    "base_severity": 2,
+    "meaning": "general meaning of drop the ball",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sports_metaphor.",
+    "examples": [
+      "We need to drop the ball."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sports_metaphor."
+  },
+  {
+    "id": "sports_metaphor_move_the_goalposts",
+    "phrase": "move the goalposts",
+    "pattern_type": "lemma_phrase",
+    "category": "sports_metaphor",
+    "base_severity": 2,
+    "meaning": "general meaning of move the goalposts",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sports_metaphor.",
+    "examples": [
+      "We need to move the goalposts."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sports_metaphor."
+  },
+  {
+    "id": "sports_metaphor_slam_dunk",
+    "phrase": "slam dunk",
+    "pattern_type": "lemma_phrase",
+    "category": "sports_metaphor",
+    "base_severity": 2,
+    "meaning": "general meaning of slam dunk",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sports_metaphor.",
+    "examples": [
+      "We need to slam dunk."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sports_metaphor."
+  },
+  {
+    "id": "sports_metaphor_level_playing_field",
+    "phrase": "level playing field",
+    "pattern_type": "lemma_phrase",
+    "category": "sports_metaphor",
+    "base_severity": 2,
+    "meaning": "general meaning of level playing field",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sports_metaphor.",
+    "examples": [
+      "We need to level playing field."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sports_metaphor."
+  },
+  {
+    "id": "sports_metaphor_in_the_trenches",
+    "phrase": "in the trenches",
+    "pattern_type": "lemma_phrase",
+    "category": "sports_metaphor",
+    "base_severity": 2,
+    "meaning": "general meaning of in the trenches",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sports_metaphor.",
+    "examples": [
+      "We need to in the trenches."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sports_metaphor."
+  },
+  {
+    "id": "sports_metaphor_rally_the_troops",
+    "phrase": "rally the troops",
+    "pattern_type": "lemma_phrase",
+    "category": "sports_metaphor",
+    "base_severity": 2,
+    "meaning": "general meaning of rally the troops",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sports_metaphor.",
+    "examples": [
+      "We need to rally the troops."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sports_metaphor."
+  },
+  {
+    "id": "sports_metaphor_pull_the_trigger",
+    "phrase": "pull the trigger",
+    "pattern_type": "lemma_phrase",
+    "category": "sports_metaphor",
+    "base_severity": 2,
+    "meaning": "general meaning of pull the trigger",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sports_metaphor.",
+    "examples": [
+      "We need to pull the trigger."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sports_metaphor."
+  },
+  {
+    "id": "sports_metaphor_heavy_artillery",
+    "phrase": "heavy artillery",
+    "pattern_type": "lemma_phrase",
+    "category": "sports_metaphor",
+    "base_severity": 2,
+    "meaning": "general meaning of heavy artillery",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sports_metaphor.",
+    "examples": [
+      "We need to heavy artillery."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sports_metaphor."
+  },
+  {
+    "id": "sports_metaphor_game_plan",
+    "phrase": "game plan",
+    "pattern_type": "lemma_phrase",
+    "category": "sports_metaphor",
+    "base_severity": 2,
+    "meaning": "general meaning of game plan",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sports_metaphor.",
+    "examples": [
+      "We need to game plan."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sports_metaphor."
+  },
+  {
+    "id": "sports_metaphor_call_an_audible",
+    "phrase": "call an audible",
+    "pattern_type": "lemma_phrase",
+    "category": "sports_metaphor",
+    "base_severity": 2,
+    "meaning": "general meaning of call an audible",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sports_metaphor.",
+    "examples": [
+      "We need to call an audible."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sports_metaphor."
+  },
+  {
+    "id": "sports_metaphor_on_the_front_lines",
+    "phrase": "on the front lines",
+    "pattern_type": "lemma_phrase",
+    "category": "sports_metaphor",
+    "base_severity": 2,
+    "meaning": "general meaning of on the front lines",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sports_metaphor.",
+    "examples": [
+      "We need to on the front lines."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sports_metaphor."
+  },
+  {
+    "id": "corporate_jargon_circle_back",
+    "phrase": "circle back",
+    "pattern_type": "lemma_phrase",
+    "category": "corporate_jargon",
+    "base_severity": 2,
+    "meaning": "discuss something again later",
+    "risk_note": "Corporate jargon that can be confusing or seem evasive.",
+    "examples": [
+      "Let's circle back on this next week."
+    ],
+    "plain_alternatives": [
+      "discuss this again",
+      "return to this topic",
+      "follow up"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Corporate jargon"
+  },
+  {
+    "id": "corporate_jargon_low_hanging_fruit",
+    "phrase": "low-hanging fruit",
+    "pattern_type": "lemma_phrase",
+    "category": "corporate_jargon",
+    "base_severity": 2,
+    "meaning": "tasks or goals that are easily achievable",
+    "risk_note": "Idiom that might not translate well; can sound informal.",
+    "examples": [
+      "Let's focus on the low-hanging fruit first."
+    ],
+    "plain_alternatives": [
+      "easy wins",
+      "quick tasks",
+      "simple goals"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common corporate_jargon."
+  },
+  {
+    "id": "corporate_jargon_move_the_needle",
+    "phrase": "move the needle",
+    "pattern_type": "lemma_phrase",
+    "category": "corporate_jargon",
+    "base_severity": 2,
+    "meaning": "general meaning of move the needle",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as corporate_jargon.",
+    "examples": [
+      "We need to move the needle."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common corporate_jargon."
+  },
+  {
+    "id": "corporate_jargon_synergy",
+    "phrase": "synergy",
+    "pattern_type": "lemma_phrase",
+    "category": "corporate_jargon",
+    "base_severity": 2,
+    "meaning": "general meaning of synergy",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as corporate_jargon.",
+    "examples": [
+      "We need to synergy."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common corporate_jargon."
+  },
+  {
+    "id": "corporate_jargon_bandwidth",
+    "phrase": "bandwidth",
+    "pattern_type": "lemma_phrase",
+    "category": "corporate_jargon",
+    "base_severity": 2,
+    "meaning": "capacity or time to take on work",
+    "risk_note": "Technical term applied to humans; can seem impersonal or confusing.",
+    "examples": [
+      "Do you have the bandwidth for this?"
+    ],
+    "plain_alternatives": [
+      "time",
+      "capacity",
+      "availability"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common corporate_jargon."
+  },
+  {
+    "id": "corporate_jargon_deep_dive",
+    "phrase": "deep dive",
+    "pattern_type": "lemma_phrase",
+    "category": "corporate_jargon",
+    "base_severity": 2,
+    "meaning": "general meaning of deep dive",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as corporate_jargon.",
+    "examples": [
+      "We need to deep dive."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common corporate_jargon."
+  },
+  {
+    "id": "corporate_jargon_ballpark_figure",
+    "phrase": "ballpark figure",
+    "pattern_type": "lemma_phrase",
+    "category": "corporate_jargon",
+    "base_severity": 2,
+    "meaning": "general meaning of ballpark figure",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as corporate_jargon.",
+    "examples": [
+      "We need to ballpark figure."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common corporate_jargon."
+  },
+  {
+    "id": "corporate_jargon_on_the_same_page",
+    "phrase": "on the same page",
+    "pattern_type": "lemma_phrase",
+    "category": "corporate_jargon",
+    "base_severity": 2,
+    "meaning": "general meaning of on the same page",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as corporate_jargon.",
+    "examples": [
+      "We need to on the same page."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common corporate_jargon."
+  },
+  {
+    "id": "corporate_jargon_take_this_offline",
+    "phrase": "take this offline",
+    "pattern_type": "lemma_phrase",
+    "category": "corporate_jargon",
+    "base_severity": 2,
+    "meaning": "general meaning of take this offline",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as corporate_jargon.",
+    "examples": [
+      "We need to take this offline."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common corporate_jargon."
+  },
+  {
+    "id": "corporate_jargon_reach_out",
+    "phrase": "reach out",
+    "pattern_type": "lemma_phrase",
+    "category": "corporate_jargon",
+    "base_severity": 2,
+    "meaning": "general meaning of reach out",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as corporate_jargon.",
+    "examples": [
+      "We need to reach out."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common corporate_jargon."
+  },
+  {
+    "id": "corporate_jargon_going_forward",
+    "phrase": "going forward",
+    "pattern_type": "lemma_phrase",
+    "category": "corporate_jargon",
+    "base_severity": 2,
+    "meaning": "general meaning of going forward",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as corporate_jargon.",
+    "examples": [
+      "We need to going forward."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common corporate_jargon."
+  },
+  {
+    "id": "corporate_jargon_paradigm_shift",
+    "phrase": "paradigm shift",
+    "pattern_type": "lemma_phrase",
+    "category": "corporate_jargon",
+    "base_severity": 2,
+    "meaning": "general meaning of paradigm shift",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as corporate_jargon.",
+    "examples": [
+      "We need to paradigm shift."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common corporate_jargon."
+  },
+  {
+    "id": "vague_time_ASAP",
+    "phrase": "ASAP",
+    "pattern_type": "lemma_phrase",
+    "category": "vague_time",
+    "base_severity": 2,
+    "meaning": "general meaning of ASAP",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as vague_time.",
+    "examples": [
+      "Asap."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common vague_time."
+  },
+  {
+    "id": "vague_time_soon",
+    "phrase": "soon",
+    "pattern_type": "lemma_phrase",
+    "category": "vague_time",
+    "base_severity": 2,
+    "meaning": "general meaning of soon",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as vague_time.",
+    "examples": [
+      "Soon."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common vague_time."
+  },
+  {
+    "id": "vague_time_shortly",
+    "phrase": "shortly",
+    "pattern_type": "lemma_phrase",
+    "category": "vague_time",
+    "base_severity": 2,
+    "meaning": "general meaning of shortly",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as vague_time.",
+    "examples": [
+      "Shortly."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common vague_time."
+  },
+  {
+    "id": "vague_time_end_of_day",
+    "phrase": "end of day",
+    "pattern_type": "lemma_phrase",
+    "category": "vague_time",
+    "base_severity": 2,
+    "meaning": "general meaning of end of day",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as vague_time.",
+    "examples": [
+      "End of day."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common vague_time."
+  },
+  {
+    "id": "vague_time_EOD",
+    "phrase": "EOD",
+    "pattern_type": "lemma_phrase",
+    "category": "vague_time",
+    "base_severity": 2,
+    "meaning": "general meaning of EOD",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as vague_time.",
+    "examples": [
+      "Eod."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common vague_time."
+  },
+  {
+    "id": "vague_time_COB",
+    "phrase": "COB",
+    "pattern_type": "lemma_phrase",
+    "category": "vague_time",
+    "base_severity": 2,
+    "meaning": "general meaning of COB",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as vague_time.",
+    "examples": [
+      "Cob."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common vague_time."
+  },
+  {
+    "id": "vague_time_by_tomorrow",
+    "phrase": "by tomorrow",
+    "pattern_type": "lemma_phrase",
+    "category": "vague_time",
+    "base_severity": 2,
+    "meaning": "general meaning of by tomorrow",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as vague_time.",
+    "examples": [
+      "By tomorrow."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common vague_time."
+  },
+  {
+    "id": "vague_time_in_a_couple_of_days",
+    "phrase": "in a couple of days",
+    "pattern_type": "lemma_phrase",
+    "category": "vague_time",
+    "base_severity": 2,
+    "meaning": "general meaning of in a couple of days",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as vague_time.",
+    "examples": [
+      "In a couple of days."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common vague_time."
+  },
+  {
+    "id": "vague_time_next_week",
+    "phrase": "next week",
+    "pattern_type": "lemma_phrase",
+    "category": "vague_time",
+    "base_severity": 2,
+    "meaning": "general meaning of next week",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as vague_time.",
+    "examples": [
+      "Next week."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common vague_time."
+  },
+  {
+    "id": "indirect_refusal_well_see",
+    "phrase": "we'll see",
+    "pattern_type": "lemma_phrase",
+    "category": "indirect_refusal",
+    "base_severity": 2,
+    "meaning": "general meaning of we'll see",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as indirect_refusal.",
+    "examples": [
+      "We'll see."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common indirect_refusal."
+  },
+  {
+    "id": "indirect_refusal_that_might_be_difficult",
+    "phrase": "that might be difficult",
+    "pattern_type": "lemma_phrase",
+    "category": "indirect_refusal",
+    "base_severity": 2,
+    "meaning": "general meaning of that might be difficult",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as indirect_refusal.",
+    "examples": [
+      "That might be difficult."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common indirect_refusal."
+  },
+  {
+    "id": "indirect_refusal_Ill_try",
+    "phrase": "I'll try",
+    "pattern_type": "lemma_phrase",
+    "category": "indirect_refusal",
+    "base_severity": 2,
+    "meaning": "general meaning of I'll try",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as indirect_refusal.",
+    "examples": [
+      "I'll try."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common indirect_refusal."
+  },
+  {
+    "id": "indirect_refusal_let_me_think_about_it",
+    "phrase": "let me think about it",
+    "pattern_type": "lemma_phrase",
+    "category": "indirect_refusal",
+    "base_severity": 2,
+    "meaning": "general meaning of let me think about it",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as indirect_refusal.",
+    "examples": [
+      "Let me think about it."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common indirect_refusal."
+  },
+  {
+    "id": "indirect_refusal_maybe_later",
+    "phrase": "maybe later",
+    "pattern_type": "lemma_phrase",
+    "category": "indirect_refusal",
+    "base_severity": 2,
+    "meaning": "general meaning of maybe later",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as indirect_refusal.",
+    "examples": [
+      "Maybe later."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common indirect_refusal."
+  },
+  {
+    "id": "indirect_refusal_interesting_idea",
+    "phrase": "interesting idea",
+    "pattern_type": "lemma_phrase",
+    "category": "indirect_refusal",
+    "base_severity": 2,
+    "meaning": "general meaning of interesting idea",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as indirect_refusal.",
+    "examples": [
+      "Interesting idea."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common indirect_refusal."
+  },
+  {
+    "id": "indirect_refusal_with_all_due_respect",
+    "phrase": "with all due respect",
+    "pattern_type": "lemma_phrase",
+    "category": "indirect_refusal",
+    "base_severity": 2,
+    "meaning": "general meaning of with all due respect",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as indirect_refusal.",
+    "examples": [
+      "With all due respect."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common indirect_refusal."
+  },
+  {
+    "id": "indirect_refusal_to_be_honest",
+    "phrase": "to be honest",
+    "pattern_type": "lemma_phrase",
+    "category": "indirect_refusal",
+    "base_severity": 2,
+    "meaning": "speaking frankly",
+    "risk_note": "Can imply that previous statements were dishonest, or precede unnecessarily blunt feedback.",
+    "examples": [
+      "To be honest, this isn't good enough."
+    ],
+    "plain_alternatives": [
+      "speaking frankly",
+      "candidly",
+      "in my opinion"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common indirect_refusal."
+  },
+  {
+    "id": "indirect_refusal_Ill_do_my_best",
+    "phrase": "I'll do my best",
+    "pattern_type": "lemma_phrase",
+    "category": "indirect_refusal",
+    "base_severity": 2,
+    "meaning": "general meaning of I'll do my best",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as indirect_refusal.",
+    "examples": [
+      "I'll do my best."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common indirect_refusal."
+  },
+  {
+    "id": "indirect_refusal_thats_one_way_to_look_at_it",
+    "phrase": "that's one way to look at it",
+    "pattern_type": "lemma_phrase",
+    "category": "indirect_refusal",
+    "base_severity": 2,
+    "meaning": "general meaning of that's one way to look at it",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as indirect_refusal.",
+    "examples": [
+      "That's one way to look at it."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common indirect_refusal."
+  },
+  {
+    "id": "indirect_refusal_we_should_consider_other_options",
+    "phrase": "we should consider other options",
+    "pattern_type": "lemma_phrase",
+    "category": "indirect_refusal",
+    "base_severity": 2,
+    "meaning": "general meaning of we should consider other options",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as indirect_refusal.",
+    "examples": [
+      "We should consider other options."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common indirect_refusal."
+  },
+  {
+    "id": "indirect_refusal_its_not_impossible",
+    "phrase": "it's not impossible",
+    "pattern_type": "lemma_phrase",
+    "category": "indirect_refusal",
+    "base_severity": 2,
+    "meaning": "general meaning of it's not impossible",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as indirect_refusal.",
+    "examples": [
+      "It's not impossible."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common indirect_refusal."
+  },
+  {
+    "id": "blunt_feedback_this_is_wrong",
+    "phrase": "this is wrong",
+    "pattern_type": "lemma_phrase",
+    "category": "blunt_feedback",
+    "base_severity": 2,
+    "meaning": "general meaning of this is wrong",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as blunt_feedback.",
+    "examples": [
+      "This is wrong."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common blunt_feedback."
+  },
+  {
+    "id": "blunt_feedback_that_wont_work",
+    "phrase": "that won't work",
+    "pattern_type": "lemma_phrase",
+    "category": "blunt_feedback",
+    "base_severity": 2,
+    "meaning": "general meaning of that won't work",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as blunt_feedback.",
+    "examples": [
+      "That won't work."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common blunt_feedback."
+  },
+  {
+    "id": "blunt_feedback_you_should_have",
+    "phrase": "you should have",
+    "pattern_type": "lemma_phrase",
+    "category": "blunt_feedback",
+    "base_severity": 2,
+    "meaning": "general meaning of you should have",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as blunt_feedback.",
+    "examples": [
+      "You should have."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common blunt_feedback."
+  },
+  {
+    "id": "blunt_feedback_thats_not_good_enough",
+    "phrase": "that's not good enough",
+    "pattern_type": "lemma_phrase",
+    "category": "blunt_feedback",
+    "base_severity": 2,
+    "meaning": "general meaning of that's not good enough",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as blunt_feedback.",
+    "examples": [
+      "That's not good enough."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common blunt_feedback."
+  },
+  {
+    "id": "blunt_feedback_you_need_to_fix_this",
+    "phrase": "you need to fix this",
+    "pattern_type": "lemma_phrase",
+    "category": "blunt_feedback",
+    "base_severity": 2,
+    "meaning": "general meaning of you need to fix this",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as blunt_feedback.",
+    "examples": [
+      "You need to fix this."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common blunt_feedback."
+  },
+  {
+    "id": "blunt_feedback_this_is_unacceptable",
+    "phrase": "this is unacceptable",
+    "pattern_type": "lemma_phrase",
+    "category": "blunt_feedback",
+    "base_severity": 2,
+    "meaning": "general meaning of this is unacceptable",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as blunt_feedback.",
+    "examples": [
+      "This is unacceptable."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common blunt_feedback."
+  },
+  {
+    "id": "sarcasm_humor_yeah_right",
+    "phrase": "yeah right",
+    "pattern_type": "lemma_phrase",
+    "category": "sarcasm_humor",
+    "base_severity": 2,
+    "meaning": "I completely disagree / that is absurd",
+    "risk_note": "Sarcasm. Non-native speakers may only hear the affirmative 'yeah' and 'right'.",
+    "examples": [
+      "Yeah right, that will work."
+    ],
+    "plain_alternatives": [
+      "I disagree",
+      "I doubt that"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sarcasm_humor."
+  },
+  {
+    "id": "sarcasm_humor_great_just_great",
+    "phrase": "great just great",
+    "pattern_type": "lemma_phrase",
+    "category": "sarcasm_humor",
+    "base_severity": 2,
+    "meaning": "general meaning of great just great",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sarcasm_humor.",
+    "examples": [
+      "Great just great."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sarcasm_humor."
+  },
+  {
+    "id": "sarcasm_humor_thanks_a_lot",
+    "phrase": "thanks a lot",
+    "pattern_type": "lemma_phrase",
+    "category": "sarcasm_humor",
+    "base_severity": 2,
+    "meaning": "I am very displeased (when used sarcastically)",
+    "risk_note": "Sarcasm. Extremely confusing for non-native speakers who take it as gratitude.",
+    "examples": [
+      "Thanks a lot for breaking the build."
+    ],
+    "plain_alternatives": [
+      "(Remove or state actual frustration)"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sarcasm_humor."
+  },
+  {
+    "id": "sarcasm_humor_oh_wonderful",
+    "phrase": "oh wonderful",
+    "pattern_type": "lemma_phrase",
+    "category": "sarcasm_humor",
+    "base_severity": 2,
+    "meaning": "general meaning of oh wonderful",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sarcasm_humor.",
+    "examples": [
+      "Oh wonderful."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sarcasm_humor."
+  },
+  {
+    "id": "sarcasm_humor_good_luck_with_that",
+    "phrase": "good luck with that",
+    "pattern_type": "lemma_phrase",
+    "category": "sarcasm_humor",
+    "base_severity": 2,
+    "meaning": "general meaning of good luck with that",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as sarcasm_humor.",
+    "examples": [
+      "Good luck with that."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common sarcasm_humor."
+  },
+  {
+    "id": "slang_no_worries",
+    "phrase": "no worries",
+    "pattern_type": "lemma_phrase",
+    "category": "slang",
+    "base_severity": 2,
+    "meaning": "do not worry about it / that is fine",
+    "risk_note": "Informal slang; can seem dismissive in formal cultures (e.g. Japan, Germany).",
+    "examples": [
+      "No worries if you can't make it!"
+    ],
+    "plain_alternatives": [
+      "that is fine",
+      "please do not worry",
+      "it is okay"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common slang."
+  },
+  {
+    "id": "slang_my_bad",
+    "phrase": "my bad",
+    "pattern_type": "lemma_phrase",
+    "category": "slang",
+    "base_severity": 2,
+    "meaning": "my fault / I apologize",
+    "risk_note": "Very informal slang. Inappropriate for formal business apologies (e.g. Japan).",
+    "examples": [
+      "My bad for missing the meeting."
+    ],
+    "plain_alternatives": [
+      "my mistake",
+      "I apologize",
+      "my fault"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common slang."
+  },
+  {
+    "id": "slang_heads_up",
+    "phrase": "heads up",
+    "pattern_type": "lemma_phrase",
+    "category": "slang",
+    "base_severity": 2,
+    "meaning": "advance notice or warning",
+    "risk_note": "Informal slang that may not be understood formally.",
+    "examples": [
+      "Just a heads up about the meeting."
+    ],
+    "plain_alternatives": [
+      "advance notice",
+      "warning",
+      "update"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common slang."
+  },
+  {
+    "id": "slang_FYI",
+    "phrase": "FYI",
+    "pattern_type": "lemma_phrase",
+    "category": "slang",
+    "base_severity": 2,
+    "meaning": "general meaning of FYI",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as slang.",
+    "examples": [
+      "Fyi."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common slang."
+  },
+  {
+    "id": "slang_no_brainer",
+    "phrase": "no-brainer",
+    "pattern_type": "lemma_phrase",
+    "category": "slang",
+    "base_severity": 2,
+    "meaning": "a decision or choice that is very easy or obvious",
+    "risk_note": "Slang that implies a lack of intelligence if misunderstood literally.",
+    "examples": [
+      "This strategy is a no-brainer."
+    ],
+    "plain_alternatives": [
+      "obvious choice",
+      "easy decision",
+      "clear path"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common slang."
+  },
+  {
+    "id": "slang_24/7",
+    "phrase": "24/7",
+    "pattern_type": "lemma_phrase",
+    "category": "slang",
+    "base_severity": 2,
+    "meaning": "general meaning of 24/7",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as slang.",
+    "examples": [
+      "24/7."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common slang."
+  },
+  {
+    "id": "slang_on_the_same_wavelength",
+    "phrase": "on the same wavelength",
+    "pattern_type": "lemma_phrase",
+    "category": "slang",
+    "base_severity": 2,
+    "meaning": "general meaning of on the same wavelength",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as slang.",
+    "examples": [
+      "On the same wavelength."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common slang."
+  },
+  {
+    "id": "slang_TLDR",
+    "phrase": "TLDR",
+    "pattern_type": "lemma_phrase",
+    "category": "slang",
+    "base_severity": 2,
+    "meaning": "general meaning of TLDR",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as slang.",
+    "examples": [
+      "Tldr."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common slang."
+  },
+  {
+    "id": "phrasal_verb_pull_off",
+    "phrase": "pull off",
+    "pattern_type": "lemma_phrase",
+    "category": "phrasal_verb",
+    "base_severity": 2,
+    "meaning": "succeed in doing something difficult",
+    "risk_note": "Phrasal verb with multiple meanings (e.g. pulling a vehicle off the road).",
+    "examples": [
+      "We can pull it off."
+    ],
+    "plain_alternatives": [
+      "achieve this",
+      "complete this successfully",
+      "manage it"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common phrasal_verb."
+  },
+  {
+    "id": "phrasal_verb_bring_up",
+    "phrase": "bring up",
+    "pattern_type": "lemma_phrase",
+    "category": "phrasal_verb",
+    "base_severity": 2,
+    "meaning": "general meaning of bring up",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as phrasal_verb.",
+    "examples": [
+      "We need to bring up."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common phrasal_verb."
+  },
+  {
+    "id": "phrasal_verb_put_off",
+    "phrase": "put off",
+    "pattern_type": "lemma_phrase",
+    "category": "phrasal_verb",
+    "base_severity": 2,
+    "meaning": "general meaning of put off",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as phrasal_verb.",
+    "examples": [
+      "We need to put off."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common phrasal_verb."
+  },
+  {
+    "id": "phrasal_verb_call_off",
+    "phrase": "call off",
+    "pattern_type": "lemma_phrase",
+    "category": "phrasal_verb",
+    "base_severity": 2,
+    "meaning": "general meaning of call off",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as phrasal_verb.",
+    "examples": [
+      "We need to call off."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common phrasal_verb."
+  },
+  {
+    "id": "phrasal_verb_figure_out",
+    "phrase": "figure out",
+    "pattern_type": "lemma_phrase",
+    "category": "phrasal_verb",
+    "base_severity": 2,
+    "meaning": "general meaning of figure out",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as phrasal_verb.",
+    "examples": [
+      "We need to figure out."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common phrasal_verb."
+  },
+  {
+    "id": "phrasal_verb_run_into",
+    "phrase": "run into",
+    "pattern_type": "lemma_phrase",
+    "category": "phrasal_verb",
+    "base_severity": 2,
+    "meaning": "general meaning of run into",
+    "risk_note": "May be misunderstood cross-culturally due to its nature as phrasal_verb.",
+    "examples": [
+      "We need to run into."
+    ],
+    "plain_alternatives": [
+      "use clearer language"
+    ],
+    "affected_cultures": [
+      "japan",
+      "china",
+      "germany",
+      "uae",
+      "brazil"
+    ],
+    "origin_note": "Common phrasal_verb."
+  },
+  {
+    "pattern_type": "lemma_phrase",
+    "base_severity": 3,
+    "examples": [
+      "tabling a motion"
+    ],
+    "plain_alternatives": [
+      "be explicit"
+    ],
+    "affected_cultures": [
+      "global"
+    ],
+    "origin_note": "Regional difference",
+    "id": "cultural_reference_tabling",
+    "phrase": "tabling a motion",
+    "category": "cultural_reference",
+    "meaning": "postpone (US) or consider now (UK)",
+    "risk_note": "Opposite meanings in US vs UK."
+  },
+  {
+    "pattern_type": "lemma_phrase",
+    "base_severity": 3,
+    "examples": [
+      "quite good"
+    ],
+    "plain_alternatives": [
+      "be explicit"
+    ],
+    "affected_cultures": [
+      "global"
+    ],
+    "origin_note": "Regional difference",
+    "id": "politeness_formula_quite_good",
+    "phrase": "quite good",
+    "category": "politeness_formula",
+    "meaning": "very good (US) or somewhat poor (UK)",
+    "risk_note": "Differs significantly between UK and US."
+  },
+  {
+    "pattern_type": "lemma_phrase",
+    "base_severity": 3,
+    "examples": [
+      "yes"
+    ],
+    "plain_alternatives": [
+      "be explicit"
+    ],
+    "affected_cultures": [
+      "global"
+    ],
+    "origin_note": "Regional difference",
+    "id": "hedging_yes",
+    "phrase": "yes",
+    "category": "hedging",
+    "meaning": "I hear you, not necessarily I agree",
+    "risk_note": "In some Asian contexts, yes just means 'listening'."
+  },
+  {
+    "pattern_type": "lemma_phrase",
+    "base_severity": 3,
+    "examples": [
+      "interesting"
+    ],
+    "plain_alternatives": [
+      "be explicit"
+    ],
+    "affected_cultures": [
+      "global"
+    ],
+    "origin_note": "Regional difference",
+    "id": "hedging_interesting",
+    "phrase": "interesting",
+    "category": "hedging",
+    "meaning": "polite negative",
+    "risk_note": "Often used as polite negative in UK English."
+  },
+  {
+    "pattern_type": "lemma_phrase",
+    "base_severity": 3,
+    "examples": [
+      "I'll try"
+    ],
+    "plain_alternatives": [
+      "be explicit"
+    ],
+    "affected_cultures": [
+      "global"
+    ],
+    "origin_note": "Regional difference",
+    "id": "indirect_refusal_ill_try",
+    "phrase": "I'll try",
+    "category": "indirect_refusal",
+    "meaning": "refusal",
+    "risk_note": "Often signals refusal in Asian business contexts."
+  }
+]
