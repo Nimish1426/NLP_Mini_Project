@@ -1,0 +1,29 @@
+# CultureLens - Cross-Cultural Communication Advisor
+# Python 3.10+ required
+
+# Web framework
+fastapi
+uvicorn
+pydantic
+
+# NLP core
+spacy>=3.8.0
+
+# Sentence embeddings (semantic layer)
+sentence-transformers
+torch>=2.5.0
+numpy
+
+# Classic ML
+scikit-learn
+joblib
+
+# Sentiment analysis
+vaderSentiment
+
+# Testing
+pytest
+httpx
+
+# Utilities
+python-multipart
